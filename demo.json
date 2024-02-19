@@ -1,0 +1,29 @@
+{
+    "global": {
+        "s3": {
+            "First s3" : "first data"
+        }
+    },
+    "ap-south-1": {
+        "ec2": {
+            "ap_south_1_ec2" : "first data"
+        },
+        "ebs": {
+            "ap_south_1_ebs" : "first data"
+        },
+        "efs": {
+            "ap_south_1_efs" : "first data"
+        }
+    },
+    "ap-south-2": {
+        "ec2": {
+            "ap_south_2_ec2" : "first data"
+        },
+        "ebs": {
+            "ap_south_2_ebs" : "first data"
+        },
+        "efs": {
+            "ap_south_2_efs" : "first data"
+        }
+    }
+}
