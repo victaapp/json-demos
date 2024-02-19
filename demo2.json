@@ -1,0 +1,32 @@
+{
+    "global": {
+        "s3": {
+            "list_buckets": [
+                {"buckey1" : "bucket data 1"},
+                {"buckey2" : "bucket data 2"}
+            ]
+        }
+    },
+    "ap-south-1": {
+        "ec2": {
+            "ap_south_1_ec2" : "first data"
+        },
+        "ebs": {
+            "ap_south_1_ebs" : "first data"
+        },
+        "efs": {
+            "ap_south_1_efs" : "first data"
+        }
+    },
+    "ap-south-2": {
+        "ec2": {
+            "ap_south_2_ec2" : "first data"
+        },
+        "ebs": {
+            "ap_south_2_ebs" : "first data"
+        },
+        "efs": {
+            "ap_south_2_efs" : "first data"
+        }
+    }
+}
